@@ -66,3 +66,7 @@ div.ui.grey.segment{
     display: flex;
     align-items: center;
 }
+.empty, .empty p{
+  text-align: center!important;
+  margin-top: 20px;
+}
